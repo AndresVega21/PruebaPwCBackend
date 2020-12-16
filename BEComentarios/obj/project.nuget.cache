@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Am8W7Vec1NQfnMffNrf8j+diYOlZ+C6U6qAsW2rNpAvyOKEBu2MnEIacIbkkz8vn/GjINhXwg23r3xiIcZ4MrA==",
+  "dgSpecHash": "Pv2Qvl+UZp+Sh1A7ZxcKWBeQxImOpTkHidypvFpvQEj2yRozVXGMBg6FljyoRUcZWJZnhfOwycUcuBAoyCjRJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\BEComentarios\\BEComentarios.csproj",
+  "projectFilePath": "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\PruebaPwCBackend\\BEComentarios\\BEComentarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andres Vega\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Andres Vega\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

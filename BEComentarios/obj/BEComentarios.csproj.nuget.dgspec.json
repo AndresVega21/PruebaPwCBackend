@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\BEComentarios\\BEComentarios.csproj": {}
+    "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\PruebaPwCBackend\\BEComentarios\\BEComentarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\BEComentarios\\BEComentarios.csproj": {
+    "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\PruebaPwCBackend\\BEComentarios\\BEComentarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\BEComentarios\\BEComentarios.csproj",
+        "projectUniqueName": "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\PruebaPwCBackend\\BEComentarios\\BEComentarios.csproj",
         "projectName": "BEComentarios",
-        "projectPath": "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\BEComentarios\\BEComentarios.csproj",
+        "projectPath": "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\PruebaPwCBackend\\BEComentarios\\BEComentarios.csproj",
         "packagesPath": "C:\\Users\\Andres Vega\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\BEComentarios\\obj\\",
+        "outputPath": "C:\\Users\\Andres Vega\\Desktop\\Comentarios\\BEComentarios\\PruebaPwCBackend\\BEComentarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andres Vega\\AppData\\Roaming\\NuGet\\NuGet.Config",
